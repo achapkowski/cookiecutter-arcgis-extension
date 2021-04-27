@@ -1,0 +1,10 @@
+{
+    "author_name": "Unknown",
+    "author_email": "Author Email",
+
+    "package_name": "cookiecutter_arcgis_namespace",
+    "package_version": "0.0.1",
+    "package_description": "A minimal arcgis cookiecutter extension template",
+    "package_url": "https://github.com/Esri/arcgis-python-api",
+    "readme_pypi_badge": true
+}
